@@ -1,0 +1,13 @@
+site_name: Discourse Docs
+theme:
+  name: material
+  features:
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  plugins:
+    - search
