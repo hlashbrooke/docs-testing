@@ -12,5 +12,4 @@ theme:
     - search.highlight
 plugins:
   - search
-  - meta
 repo_url: https://github.com/hlashbrooke/docs-testing
