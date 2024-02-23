@@ -6,9 +6,11 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     - navigation.expand
+    - navigation.path
     - navigation.top
     - search.suggest
     - search.highlight
 plugins:
   - search
+  - meta
 repo_url: https://github.com/hlashbrooke/docs-testing
