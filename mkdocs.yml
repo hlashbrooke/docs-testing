@@ -1,0 +1,16 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
+repo_url: https://github.com/hlashbrooke/docs-testing

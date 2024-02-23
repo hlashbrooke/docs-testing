@@ -1,1 +1,13 @@
 .DS_Store
+.bash_history
+.bashrc
+.cache/
+.cloud-locale-test.skip
+.config/
+.local/
+.profile
+.ssh/
+.wget-hsts
+site/
+snap/
+venv/
