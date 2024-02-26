@@ -18,6 +18,5 @@ theme:
     - search.highlight
 plugins:
   - search
-  - social
   - tags
 repo_url: https://github.com/hlashbrooke/docs-testing
