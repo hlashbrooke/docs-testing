@@ -1,3 +1,8 @@
+---
+tags:
+  - Installation
+  - Debian
+---
 # Installing Discourse on Debian
 
 ## Work in Progress

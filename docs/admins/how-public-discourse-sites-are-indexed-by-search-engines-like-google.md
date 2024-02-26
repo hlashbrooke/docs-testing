@@ -1,3 +1,9 @@
+---
+tags:
+  - Google
+  - SEO
+  - Indexing
+---
 # How public Discourse sites are indexed by search engines like Google
 
 While Discourse is a JavaScript application, it can still be crawled by Google and other search engines.

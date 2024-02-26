@@ -1,3 +1,8 @@
+---
+tags:
+  - Installation
+  - Multisite
+---
 # Multisite setup instructions
 
 ### This *only* applies to non-Docker configurations. If you are using the recommended Docker install for your instance of Docker, see [multi-site configuration with Docker](https://meta.discourse.org/t/multisite-configuration-with-docker/14084)

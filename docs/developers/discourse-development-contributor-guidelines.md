@@ -1,3 +1,9 @@
+---
+tags:
+  - Contributing
+  - Development
+  - Meta
+---
 # Discourse Development Contributor Guidelines
 
 ## Environment

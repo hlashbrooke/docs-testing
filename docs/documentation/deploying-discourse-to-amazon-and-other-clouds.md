@@ -1,3 +1,9 @@
+---
+tags:
+  - Deployment
+  - Amazon
+---
+
 # Deploying Discourse to Amazon (and other clouds)
 
 ## What?

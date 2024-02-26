@@ -1,15 +1,23 @@
 site_name: Discourse Documentation
+site_url: https://octopus-app-dftqf.ondigitalocean.app
 theme:
   name: material
   features:
     - navigation.instant
     - navigation.instant.preview
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
     - navigation.tracking
     - navigation.expand
     - navigation.path
     - navigation.top
+    - toc.follow
     - search.suggest
     - search.highlight
 plugins:
   - search
+  - social
+  - tags
 repo_url: https://github.com/hlashbrooke/docs-testing

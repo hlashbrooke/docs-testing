@@ -1,3 +1,9 @@
+
+---
+tags:
+  - Notifications
+  - Settings
+---
 # How does the notifications menu work?
 
 Ding! ⏰

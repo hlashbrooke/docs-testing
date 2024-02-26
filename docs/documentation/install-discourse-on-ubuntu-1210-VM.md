@@ -1,3 +1,8 @@
+---
+tags:
+  - Installation
+  - Ubuntu
+---
 # Install Discourse on Ubuntu 12.10 (VM)
 
 Most of step come from [Debian installation guide][1]

@@ -1,3 +1,8 @@
+---
+tags:
+  - Flag
+  - Moderation
+---
 # What happens when you flag a post
 
 ## What happens when you flag something?
